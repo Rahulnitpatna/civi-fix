@@ -1,4 +1,5 @@
-# Civifix - FixMyRoad  
+# Civifix
+
 A platform to report and track civic issues in your city. 🚧  
 
 ## 🌟 Features  
