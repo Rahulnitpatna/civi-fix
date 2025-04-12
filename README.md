@@ -4,6 +4,9 @@
 
 Civifix also supports government-led movements like *Swachh Bharat Abhiyan* and *Green India Movement*, encouraging users to post photos of their participation using hashtags. This helps promote civic awareness, community involvement, and accountability in a simple and interactive way. 
 
+  - [Byteverse PPT Link](https://in.docworkspace.com/d/sIGXGwvytAqzL6r8G?sa=601.1074)
+
+
 ## 🌟 Features  
 - Civic issue reporting with photo, location (manually selected), and description.
 - Instagram-style story interface for browsing issues nearby.
@@ -17,5 +20,23 @@ Civifix also supports government-led movements like *Swachh Bharat Abhiyan* and 
 ## 🚀 How to Run Locally  
 ### **Step 1: Clone the Repository**  
 ```sh
+
+
+
 git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+cd <YOUR_PROJECT_NAME>  ```sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
